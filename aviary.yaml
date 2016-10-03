@@ -1,0 +1,12 @@
+version: 1
+
+exclude:
+  - test/
+  
+raven_monitored_keywords:
+  encryption:
+    reason: encryption stuff
+    infosec_review_required: true
+  password:
+    reason: password stuff
+    
