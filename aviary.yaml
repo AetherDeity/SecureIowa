@@ -4,7 +4,7 @@ exclude:
   - test/
   
 raven_monitored_keywords:
-  encryption:
+  encrypt:
     reason: encryption stuff
     infosec_review_required: true
   password:
